@@ -1,0 +1,7 @@
+{
+	"apiBaseUrl": "http://localhost:4000",
+	"siteUrl": "http://localhost:3000",
+	"environment": "dev",
+	"isDevelopment": true,
+	"version": "v1.0.0"
+}
